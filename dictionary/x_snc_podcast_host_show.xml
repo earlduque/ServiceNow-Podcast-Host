@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Show" max_length="40" name="x_snc_podcast_host_show" type="collection">
+        <element label="Author" max_length="100" name="author" type="string"/>
+        <element default="no" label="Block" max_length="40" name="block" type="boolean"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Explicit" max_length="40" name="explicit" type="boolean"/>
+        <element label="Image" max_length="1024" name="image" type="url"/>
+        <element label="Keywords" max_length="400" name="keywords" type="string"/>
+        <element default="en" label="Language" max_length="40" name="language" type="string"/>
+        <element label="Owner Email" max_length="100" name="owner_email" type="string"/>
+        <element label="Owner Name" max_length="100" name="owner_name" type="string"/>
+        <element label="Password" max_length="255" name="password" type="password2"/>
+        <element label="Subtitle" max_length="400" name="subtitle" type="string"/>
+        <element display="true" label="Title" max_length="100" name="title" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Podcast Host</name>
+        <order/>
+        <roles>x_snc_podcast_host.show_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin-eduque</sys_created_by>
+        <sys_created_on>2019-08-29 01:04:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bc1ccf1db2bff009c042095ca961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Podcast Host</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Podcast Host" source="x_snc_podcast_host">bfcd7761db2bff009c042095ca96196e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Podcast Host">bfcd7761db2bff009c042095ca96196e</sys_scope>
+        <sys_update_name>sys_ui_application_5bc1ccf1db2bff009c042095ca961939</sys_update_name>
+        <sys_updated_by>admin-eduque</sys_updated_by>
+        <sys_updated_on>2019-08-29 01:04:18</sys_updated_on>
+    </sys_ui_application>
+</record_update>

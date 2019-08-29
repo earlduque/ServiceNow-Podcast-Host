@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_podcast_host.show_user" name="x_snc_podcast_host.show_user">fec18cf1db2bff009c042095ca9619d7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin-eduque</sys_created_by>
+        <sys_created_on>2019-08-29 01:04:16</sys_created_on>
+        <sys_id>f6c18cf1db2bff009c042095ca9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fec18cf1db2bff009c042095ca9619d7</sys_name>
+        <sys_package display_value="Podcast Host" source="x_snc_podcast_host">bfcd7761db2bff009c042095ca96196e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Podcast Host">bfcd7761db2bff009c042095ca96196e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f6c18cf1db2bff009c042095ca9619da</sys_update_name>
+        <sys_updated_by>admin-eduque</sys_updated_by>
+        <sys_updated_on>2019-08-29 01:04:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Episode" max_length="40" name="x_snc_podcast_host_episode" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Duration" max_length="40" name="duration" type="string"/>
+        <element label="Explicit" max_length="40" name="explicit" type="boolean"/>
+        <element label="Image" max_length="1024" name="image" type="url"/>
+        <element label="Keywords" max_length="400" name="keywords" type="string"/>
+        <element label="Show" max_length="32" name="show" reference="x_snc_podcast_host_show" type="reference"/>
+        <element label="Summary" max_length="400" name="summary" type="string"/>
+        <element display="true" label="Title" max_length="100" name="title" type="string"/>
+        <index name="index">
+            <element name="show"/>
+        </index>
+    </element>
+</database>
